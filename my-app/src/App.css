@@ -7,19 +7,57 @@
   height: 80px;
 }
 
+.App-logo-react {
+  text-align: left;
+
+}
+
 .App-header {
   background-color: #222;
-  height: 150px;
+  height: 100px;
   padding: 20px;
-  color: white;
+  color: yellow;
+  
 }
 
 .App-title {
   font-size: 1.5em;
+  padding-top: 5%;
+}
+
+.appFooter{
+
+  background-color:#222;
+  height: 50px;
+  color: yellow;
+  
+
 }
 
 .App-intro {
   font-size: large;
+}
+
+.navBar{
+  border-bottom-style: solid;
+}
+
+.navButton{
+  padding-top: 20px;
+}
+
+.mainPic{
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+.underPic{
+
+  padding-top: 30px;
+  padding-bottom: 30px;
+
 }
 
 @keyframes App-logo-spin {
